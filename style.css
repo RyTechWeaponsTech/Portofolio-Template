@@ -1,0 +1,19 @@
+.bg-warnaku {
+  background-color: rgb(0, 213, 255);
+}
+
+.bg-warnaku-2 {
+  background-color: rgb(0, 164, 197);
+}
+
+.nav-item {
+  font-size: 15px;
+}
+
+.text-justify p {
+  text-align: justify;
+}
+
+form .warna-sendiri {
+  background-color: rgb(0, 213, 255);
+}
